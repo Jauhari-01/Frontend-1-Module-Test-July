@@ -200,7 +200,6 @@ nav{
 footer{
     width: 100vw;
     height: auto;
-    border:2px solid red;
     background: rgba(252, 203, 144, 0.15);
     display: flex;
     align-items: center;
